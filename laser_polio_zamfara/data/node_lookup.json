@@ -1,0 +1,128 @@
+{
+  "AFRO:NIGERIA:ZAMFARA:ANKA": {
+    "dot_name": "AFRO:NIGERIA:ZAMFARA:ANKA",
+    "lat": 11.9318609177114,
+    "lon": 5.98127147619859,
+    "adm0": "NIGERIA",
+    "adm1": "ZAMFARA",
+    "adm2": "ANKA",
+    "adm01": "NIGERIA:ZAMFARA"
+  },
+  "AFRO:NIGERIA:ZAMFARA:BAKURA": {
+    "dot_name": "AFRO:NIGERIA:ZAMFARA:BAKURA",
+    "lat": 12.6193909187678,
+    "lon": 5.86183516012338,
+    "adm0": "NIGERIA",
+    "adm1": "ZAMFARA",
+    "adm2": "BAKURA",
+    "adm01": "NIGERIA:ZAMFARA"
+  },
+  "AFRO:NIGERIA:ZAMFARA:BIRNIN_MAGAJI_KIYAW": {
+    "dot_name": "AFRO:NIGERIA:ZAMFARA:BIRNIN_MAGAJI_KIYAW",
+    "lat": 12.4355359133427,
+    "lon": 6.89548193147978,
+    "adm0": "NIGERIA",
+    "adm1": "ZAMFARA",
+    "adm2": "BIRNIN_MAGAJI_KIYAW",
+    "adm01": "NIGERIA:ZAMFARA"
+  },
+  "AFRO:NIGERIA:ZAMFARA:BUKKUYUM": {
+    "dot_name": "AFRO:NIGERIA:ZAMFARA:BUKKUYUM",
+    "lat": 11.9473559905656,
+    "lon": 5.5807566704731,
+    "adm0": "NIGERIA",
+    "adm1": "ZAMFARA",
+    "adm2": "BUKKUYUM",
+    "adm01": "NIGERIA:ZAMFARA"
+  },
+  "AFRO:NIGERIA:ZAMFARA:BUNGUDU": {
+    "dot_name": "AFRO:NIGERIA:ZAMFARA:BUNGUDU",
+    "lat": 12.1116265863321,
+    "lon": 6.54034748381253,
+    "adm0": "NIGERIA",
+    "adm1": "ZAMFARA",
+    "adm2": "BUNGUDU",
+    "adm01": "NIGERIA:ZAMFARA"
+  },
+  "AFRO:NIGERIA:ZAMFARA:GUMMI": {
+    "dot_name": "AFRO:NIGERIA:ZAMFARA:GUMMI",
+    "lat": 12.0231605836596,
+    "lon": 5.14710155032632,
+    "adm0": "NIGERIA",
+    "adm1": "ZAMFARA",
+    "adm2": "GUMMI",
+    "adm01": "NIGERIA:ZAMFARA"
+  },
+  "AFRO:NIGERIA:ZAMFARA:GUSAU": {
+    "dot_name": "AFRO:NIGERIA:ZAMFARA:GUSAU",
+    "lat": 11.8106876921452,
+    "lon": 6.73694732736506,
+    "adm0": "NIGERIA",
+    "adm1": "ZAMFARA",
+    "adm2": "GUSAU",
+    "adm01": "NIGERIA:ZAMFARA"
+  },
+  "AFRO:NIGERIA:ZAMFARA:KAURA_NAMODA": {
+    "dot_name": "AFRO:NIGERIA:ZAMFARA:KAURA_NAMODA",
+    "lat": 12.5210769008528,
+    "lon": 6.59459546075947,
+    "adm0": "NIGERIA",
+    "adm1": "ZAMFARA",
+    "adm2": "KAURA_NAMODA",
+    "adm01": "NIGERIA:ZAMFARA"
+  },
+  "AFRO:NIGERIA:ZAMFARA:MARADUN": {
+    "dot_name": "AFRO:NIGERIA:ZAMFARA:MARADUN",
+    "lat": 12.7574644446302,
+    "lon": 6.25434844219591,
+    "adm0": "NIGERIA",
+    "adm1": "ZAMFARA",
+    "adm2": "MARADUN",
+    "adm01": "NIGERIA:ZAMFARA"
+  },
+  "AFRO:NIGERIA:ZAMFARA:MARU": {
+    "dot_name": "AFRO:NIGERIA:ZAMFARA:MARU",
+    "lat": 11.4999703803724,
+    "lon": 6.30029690231248,
+    "adm0": "NIGERIA",
+    "adm1": "ZAMFARA",
+    "adm2": "MARU",
+    "adm01": "NIGERIA:ZAMFARA"
+  },
+  "AFRO:NIGERIA:ZAMFARA:SHINKAFI": {
+    "dot_name": "AFRO:NIGERIA:ZAMFARA:SHINKAFI",
+    "lat": 13.0299456811315,
+    "lon": 6.49754227088686,
+    "adm0": "NIGERIA",
+    "adm1": "ZAMFARA",
+    "adm2": "SHINKAFI",
+    "adm01": "NIGERIA:ZAMFARA"
+  },
+  "AFRO:NIGERIA:ZAMFARA:TALATA_MAFARA": {
+    "dot_name": "AFRO:NIGERIA:ZAMFARA:TALATA_MAFARA",
+    "lat": 12.3679466499526,
+    "lon": 6.04895788469054,
+    "adm0": "NIGERIA",
+    "adm1": "ZAMFARA",
+    "adm2": "TALATA_MAFARA",
+    "adm01": "NIGERIA:ZAMFARA"
+  },
+  "AFRO:NIGERIA:ZAMFARA:TSAFE": {
+    "dot_name": "AFRO:NIGERIA:ZAMFARA:TSAFE",
+    "lat": 11.8521164013786,
+    "lon": 6.9010160883599,
+    "adm0": "NIGERIA",
+    "adm1": "ZAMFARA",
+    "adm2": "TSAFE",
+    "adm01": "NIGERIA:ZAMFARA"
+  },
+  "AFRO:NIGERIA:ZAMFARA:ZURMI": {
+    "dot_name": "AFRO:NIGERIA:ZAMFARA:ZURMI",
+    "lat": 12.8154606207736,
+    "lon": 6.76806949046183,
+    "adm0": "NIGERIA",
+    "adm1": "ZAMFARA",
+    "adm2": "ZURMI",
+    "adm01": "NIGERIA:ZAMFARA"
+  }
+}

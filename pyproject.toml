@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "laser-polio-zamfara-data"
+version = "0.1.0"
+description = "Minimal public Zamfara test dataset for laser-polio"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.9"
+keywords = ["polio", "simulation", "laser", "zamfara", "nigeria", "test-data"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Bio-Informatics",
+]
+
+dependencies = []   # data-only; no runtime deps beyond Python stdlib
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=6.0",
+    "pandas",
+    "numpy",
+    "h5py",
+    "tables",
+    "geopandas",
+]
+
+[project.urls]
+Repository = "https://github.com/InstituteforDiseaseModeling/laser-polio-zamfara-data"
+
+[project.scripts]
+laser-polio-zamfara-data = "laser_polio_zamfara.bootstrap:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["laser_polio_zamfara*"]
+
+[tool.setuptools.package-data]
+"laser_polio_zamfara" = ["data/*"]
