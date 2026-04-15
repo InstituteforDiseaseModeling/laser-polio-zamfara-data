@@ -7,7 +7,13 @@ Contains synthetic/public data for the 14 LGAs of Zamfara State, Nigeria — saf
 ## Install
 
 ```bash
-pip install laser-polio-zamfara-data
+pip install --extra-index-url https://packages.idmod.org/api/pypi/pypi-production/simple laser-polio-zamfara-data
+```
+
+Or directly from GitHub (no Artifactory credentials needed):
+
+```bash
+pip install git+https://github.com/InstituteforDiseaseModeling/laser-polio-zamfara-data.git
 ```
 
 ## Usage
