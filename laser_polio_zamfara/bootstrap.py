@@ -9,6 +9,7 @@ DEFAULT_OUTDIR = "laser_polio_zamfara_data"
 
 # Canonical mapping from filenames → manifest variable names
 FILENAME_TO_VAR = {
+    "adm01_adjacency.npz": "adjacency",
     "Nigeria_age_pyramid_2024.csv": "age_pyramid",
     "cbr_NGA.json": "cbr_nga",
     "distance_matrix_africa_adm2.h5": "distance_matrix",
